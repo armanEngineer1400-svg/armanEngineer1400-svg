@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi 👋 I'm Arman Montajabiha
 
-<!--
-**armanEngineer1400-svg/armanEngineer1400-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about software development, AI, and building real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building **AccMarket**, a modern digital marketplace.
+
+### 🛠️ Skills
+- Python
+- Java
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- REST APIs
+- SQL
+
+### 🚀 Current Project
+**AccMarket**
+- Full Stack Marketplace
+- Custom API
+- Admin Dashboard
+- Secure Authentication
+- Modern UI
+
+### 🎯 Goals
+- Build impactful software
+- Publish research papers
+- Study in the Netherlands
+- Pursue a PhD at a top university
+
+---
+⭐ Always learning. Always building.
